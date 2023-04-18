@@ -1,0 +1,7 @@
+ETL Job Started
+Extract phase Started
+Extract phase Ended
+Transform phase  Started
+Transform phase Ended
+Load phase Strarted
+Load phase Ended
